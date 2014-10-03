@@ -1,0 +1,42 @@
+.lw { font-size: 60px; }
+
+.formA {
+  font-family: "Minion Pro";
+  position: absolute; 
+  top: 0; 
+  bottom: 0; 
+  left: 0; 
+  right: 0;
+    
+  
+}
+.formB {
+  font-family: "Bebas Neue";
+  font-size: 12px;
+}
+.chatWindow {
+  background-color: #F0F8FF;
+}
+.sendTd {
+  width: 58px;
+  padding: 0;
+  padding-left: 4px;
+  text-align: center;
+  vertical-align: middle;
+}
+.fillTable {
+  width:  100%;
+  height: 100%;
+  border:  0;
+  padding: 0;
+  
+  
+}
+
+table, th, td {
+
+  border-collapse: collapse;
+  padding: 5px;
+  text-align: left;
+  vertical-align:top;
+}
